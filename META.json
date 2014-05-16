@@ -56,7 +56,12 @@
     },
 
     "resources": {
-        "license": "http://dev.perl.org/licenses/",
+        "license": "http://www.perlfoundation.org/artistic_license_2_0",
         "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=App-Maisha-Plugin-PingFM" }
+        "repository": {
+            "url": "git://github.com/barbie/app-maisha-plugin-pingfm.git",
+            "web": "http://github.com/barbie/app-maisha-plugin-pingfm",
+            "type": "git"
+        }
     }
 }
