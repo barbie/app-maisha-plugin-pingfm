@@ -2,6 +2,7 @@ Changes log for App-Maisha-Plugin-PingFM
 ========================================
 
         - fixed distribution name in META.
+        - added LICENSE file.
 
 0.03    2012-10-14
         - spelling fix. (thanks to Florian Schlichting & Gregor Herrmann).
