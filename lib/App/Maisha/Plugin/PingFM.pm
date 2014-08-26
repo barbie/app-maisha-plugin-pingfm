@@ -138,7 +138,7 @@ place.
 
 =head1 COPYRIGHT AND LICENSE
 
-  Copyright (C) 2009-2012 by Barbie
+  Copyright (C) 2009-2014 by Barbie
 
   This distribution is free software; you can redistribute it and/or
   modify it under the Artistic License v2.
