@@ -3,7 +3,7 @@ package App::Maisha::Plugin::PingFM;
 use strict;
 use warnings;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 #----------------------------------------------------------------------------
 # Library Modules
